@@ -15,14 +15,14 @@
             android:layout_height="match_parent"
             android:orientation="vertical"
             android:layout_weight="1">
-            <project.mini.coursera.com.morderartui.RectAngleLeftTop
+            <project.mini.coursera.com.morderartui.RectAngle
                 android:id="@+id/view_01"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:background="@color/material_deep_teal_500"
                 />
-            <project.mini.coursera.com.morderartui.RectAngleLeftTop
+            <project.mini.coursera.com.morderartui.RectAngle
                 android:id="@+id/view_02"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
@@ -41,7 +41,7 @@
             android:orientation="vertical"
             android:layout_weight="2">
 
-            <project.mini.coursera.com.morderartui.RectAngleLeftTop
+            <project.mini.coursera.com.morderartui.RectAngle
                 android:id="@+id/view_03"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
@@ -52,7 +52,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="10dp"
                 android:background="@color/black"/>
-            <project.mini.coursera.com.morderartui.RectAngleLeftTop
+            <project.mini.coursera.com.morderartui.RectAngle
                 android:id="@+id/view_04"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
@@ -63,7 +63,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="10dp"
                 android:background="@color/black"/>
-            <project.mini.coursera.com.morderartui.RectAngleLeftTop
+            <project.mini.coursera.com.morderartui.RectAngle
                 android:id="@+id/view_05"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"

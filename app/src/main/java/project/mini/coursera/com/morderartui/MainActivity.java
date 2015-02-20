@@ -46,7 +46,7 @@ public class MainActivity extends ActionBarActivity {
             public void onStartTrackingTouch(SeekBar seekBar) {
 
             }
-
+      //if you touch the seek bar what will happen??
             @Override
             public void onStopTrackingTouch(SeekBar seekBar) {
 

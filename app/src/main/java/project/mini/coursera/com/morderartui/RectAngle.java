@@ -6,16 +6,16 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.View;
 
-public class RectAngleLeftTop extends View {
+public class RectAngle extends View {
 
-    public RectAngleLeftTop(Context context) {
+    public RectAngle(Context context) {
         super(context);
     }
-    public RectAngleLeftTop(Context context, AttributeSet attrs) {
+    public RectAngle(Context context, AttributeSet attrs) {
         super(context, attrs);
     }
 
-    public RectAngleLeftTop(Context context, AttributeSet attrs, int defStyleAttr) {
+    public RectAngle(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
     }
     @Override
